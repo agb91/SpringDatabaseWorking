@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 01 11:58:05 CEST 2015:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): istanza a816c00e-014f-8857-949b-00000cbefae8
+sulla directory di database /home/andrea/Scrivania/derby/bin/bin/persone con caricatore classi sun.misc.Launcher$AppClassLoader@1c571cc4 
+Caricato da file:/home/andrea/Scrivania/derby/bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b14
+user.dir=/home/andrea/Scrivania/springExample/Spring JDBC Example
+os.name=Linux
+os.arch=amd64
+os.version=3.19.0-27-generic
+derby.system.home=null
+Programma di caricamento classe database avviato - derby.database.classpath=''
